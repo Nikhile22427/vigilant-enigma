@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>polygons</title>
+    <title>polygons
     
 </head>
 <body>
